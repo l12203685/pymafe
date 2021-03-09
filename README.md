@@ -1,6 +1,6 @@
 # pymafe
 
-A Profit-Loss Analysis Tool
+A Trading Strategy Analysis Tool
 
 
 ```python
